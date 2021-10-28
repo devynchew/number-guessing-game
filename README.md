@@ -1,0 +1,2 @@
+# number-guessing-game
+This is a simple number guessing game between the program and the user. The user is asked to pick an arbitrary number in the range between 1 and n after which the program is tasked to find out what number the user has in mind. The program will be allowed to ask the user questions, but only questions that can be answered by either ‘yes’ or ‘no’. The objective of the game is, for the program, to find out the number that the user has in mind using the least number of questions. 
